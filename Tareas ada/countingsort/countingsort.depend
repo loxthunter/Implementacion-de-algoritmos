@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627602476 source:c:\users\luis miguel\desktop\tareas ada\countingsort\main.cpp
+	<iostream>
+	<algorithm>
+

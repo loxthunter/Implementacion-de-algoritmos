@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627602651 source:c:\users\luis miguel\desktop\tareas ada\radixsort\main.cpp
+	<iostream>
+	<math.h>
+

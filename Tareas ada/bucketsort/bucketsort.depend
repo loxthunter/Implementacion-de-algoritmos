@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627602763 source:c:\users\luis miguel\desktop\tareas ada\bucketsort\main.cpp
+	<algorithm>
+	<iostream>
+	<vector>
+

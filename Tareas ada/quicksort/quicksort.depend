@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1627602352 source:c:\users\luis miguel\desktop\tareas ada\quicksort\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
